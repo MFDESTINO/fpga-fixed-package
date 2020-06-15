@@ -1,0 +1,8 @@
+db/
+fpga_neural_network.qpf
+fpga_neural_network.qsf
+fpga_neural_network.qws
+incremental_db/
+output_files/
+simulation/
+teste.vhd
