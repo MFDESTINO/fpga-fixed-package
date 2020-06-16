@@ -6,3 +6,5 @@ incremental_db/
 output_files/
 simulation/
 teste.vhd
+*.zip
+*.bak
